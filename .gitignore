@@ -1,6 +1,8 @@
 .htaccess
 css.php
 rpc/
+temp/
+__/
 sites/site*/admin/
 sites/site*/private/
 sites/site*/public/admin/
